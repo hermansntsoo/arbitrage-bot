@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>ArbBot.Core</RootNamespace>
+    <AssemblyName>ArbBot.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
